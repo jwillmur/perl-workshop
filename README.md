@@ -8,13 +8,12 @@ This repository contains worked exercises from a 5-day training program with Per
 - Operators and Functions (Chapter 7)
 
 ## Day 2
-- Conditional constructs
-- Subroutines
-- Named parameter passing
-- Regular expressions
+- Conditional constructs (Chapter 8)
+- Subroutines (Chapter 9)
+- Regular expressions (Chapter 10)
 
 ## Day 3
-- Writing packages and modules
+- Writing packages and modules (Chapter 11)
 - Using Perl objects
 
 For further study: 
